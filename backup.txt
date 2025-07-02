@@ -141,11 +141,13 @@
     ];
 
     const videoIDs = [
-      "LYu6FXbUuhI"
+      "LYu6FXbUuhI",
+      "pkP5dmuRIgw"
     ];
 
     const videoTitles = [
       "Médica integrante do ‘Bando da Degola’ é presa em Minas Gerais após três anos foragida",
+      "AS 5 CIDADES MAIS LINDAS de MINAS GERAIS - Uma mais BONITA que a outra!!!"
 
     ];
 
